@@ -1,0 +1,21 @@
+[debug] [2021-11-16T14:16:59.027Z] ----------------------------------------------------------------------
+[debug] [2021-11-16T14:16:59.029Z] Command:       /usr/local/bin/node /usr/local/bin/firebase init
+[debug] [2021-11-16T14:16:59.030Z] CLI Version:   9.20.0
+[debug] [2021-11-16T14:16:59.030Z] Platform:      darwin
+[debug] [2021-11-16T14:16:59.030Z] Node Version:  v14.17.6
+[debug] [2021-11-16T14:16:59.031Z] Time:          Tue Nov 16 2021 17:16:59 GMT+0300 (East Africa Time)
+[debug] [2021-11-16T14:16:59.031Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-11-16T14:16:59.039Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-11-16T14:16:59.039Z] > authorizing via signed-in user (manuelmotivater@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  /Users/lumona/Documents/myworkspace/gitHub-Portfolio/linkedin-clone
+
